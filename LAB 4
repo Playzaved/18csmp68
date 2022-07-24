@@ -42,3 +42,5 @@ wallpaperManager.setBitmap(BitmapFactory.decodeResource(getResources(),
 ia[random.nextInt(5)]));
 } catch (IOException e) { }
 }
+}
+}
